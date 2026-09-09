@@ -1,13 +1,13 @@
 body {
   margin: 0;
-  font-family: Arial, sans-serif;
-  background-image: url('backgroundimage.jpg');
+  font-family: "Trebuchet MS", sans-serif;
+  background-image: url('images/background.jpg');
   background-size: cover;
 }
 
 header {
   padding: 1rem;
-  border-bottom: 1px solid #bae9e3;
+  border-bottom: 1px solid #79b8af;
 }
 
 nav {
@@ -23,6 +23,11 @@ section {
   margin-bottom: 2rem;
 }
 
-h1, h2, p {
+h1, h2, h3 {
   margin-top: 0;
+  font-family: "Courier New", Courier, monospace;
+}
+
+p {
+  font-family: "Trebuchet MS", sans-serif;
 }

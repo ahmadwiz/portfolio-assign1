@@ -1,0 +1,28 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-image: url('backgroundimage.jpg');
+  background-size: cover;
+}
+
+header {
+  padding: 1rem;
+  border-bottom: 1px solid #bae9e3;
+}
+
+nav {
+  display: flex;
+  gap: 1rem;
+}
+
+main {
+  padding: 2rem;
+}
+
+section {
+  margin-bottom: 2rem;
+}
+
+h1, h2, p {
+  margin-top: 0;
+}
